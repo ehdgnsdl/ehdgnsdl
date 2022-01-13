@@ -1,20 +1,22 @@
-### Hi there 👋
+### Hi I'm Donghoon Jang 👋 😎😎😎
+#### Studying Programming & Data Science & Machine Learning & Deep Learning   
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+##### 📘 ️Edu 
+
+`-` **Big Leader AI Academy _ KDATA & Kyungnam Univ (2021.07-08)  
+`-` Inha Univ, Department of Information and Communication Engineering (2017-2023)  
 
 
+##### 🏆 Project  
 
-<!--
-**ehdgnsdl/ehdgnsdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| PERIOD | TITLE | SUBJECT |
+| ------- | ------- | -------|
+| **2021.12 - 2022.02** | **Deep Learning Object recognition** | **A project to recognize tools used by people with disabilities at subway stations.** |
+| ------ | ------ | ------|
+| **2021.10 - 2021.12** | **Database design project** | **Designed an aircraft reservation system based on the AIRLINE database schema**
+| **2021.11 - 2019.12** | **DSP project** | **Analysis of the frequency of male and female voices recorded in matlab.**  
 
-Here are some ideas to get you started:
+##### 🧩 Skill  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Python / c++ / c / html / css / javascript**    
+
