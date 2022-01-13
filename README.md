@@ -2,8 +2,7 @@
 #### Studying Programming & Data Science & Machine Learning & Deep Learning   
 
 ##### 📘 ️Edu 
-
-`-` **Big Leader AI Academy _ KDATA & Kyungnam Univ (2021.07-08)  
+  
 `-` Inha Univ, Department of Information and Communication Engineering (2017-2023)  
 
 
