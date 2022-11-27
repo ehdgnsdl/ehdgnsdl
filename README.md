@@ -9,7 +9,7 @@
 ##### 🏆 Project  
 
 | PERIOD | TITLE | SUBJECT |
-| ------- | ------- | -------|
+| ------- | ------- | -------
 | **--- ing ---** | ------ | ------|
 | **2022.05 - 2022.** | **Endometrium** | **Prediction of final pathology based on preoperative perioperative perioperative infiltration and rating of women with low risk of endometrial cancer** |
 | **2022.09 - 2022.** | **Comprehensive Information and Communication Design** | **An Ensemble Technique in Emotional Classification of Korean Song Lyrics** |
@@ -26,4 +26,3 @@
 ##### 🧩 Skill  
 
 **Python / PyTorch / Tensorflow / c++ / c / html / css / javascript**    
-
