@@ -12,9 +12,9 @@
 | ------ | ------ | ------ |
 | **--- ing ---** | ------ | ------|
 | **2022.05 - 2022.** | **Endometrium** | **Prediction of final pathology based on preoperative perioperative perioperative infiltration and rating of women with low risk of endometrial cancer** |
+| **--- end ---** | ------ | ------|
 | **2022.09 - 2022.** | **Comprehensive Information and Communication Design** | **An Ensemble Technique in Emotional Classification of Korean Song Lyrics** |
 | **2022.09 - 2022.** | **Computer Vision** | **An AI competition to detect lesions** 
-| **--- end ---** | ------ | ------|
 | **2022.07 - 2022.07** | **2022 Inha Artificial Intelligence Challenge** | **Analyzing data on electrical energy generation in wind farms to predict expected energy generation in the future with high accuracy** |
 | **2022.06 - 2022.09** | **2022 Medical Information Analysis Expert In-depth Course 1** | **Identify user characteristics and profile users using Machine Learning techniques, identify frequency menus within the same profile and recommend them to new and elderly people** |
 | **2022.03 - 2022.06** | **AI Application System project** | **Improving the estimation of license plates using SuperResolution** |
