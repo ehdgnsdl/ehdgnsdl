@@ -2,8 +2,8 @@
 #### Studying Programming & Data Science & Machine Learning & Deep Learning   
 
 ##### 📘 ️Edu 
-  
-`-` Inha Univ, Department of Information and Communication Engineering (2017-2023)  
+`-` Inha Univ, Master's Degree, Electrical Computer Engineering and Artificial Intelligence Major (2023-present)  
+`-` Inha Univ, Bachelor Degree, Department of Information and Communication Engineering (2017-2023)  
 
 
 ##### 🏆 Competition
@@ -23,10 +23,10 @@
 | PERIOD | TITLE | SUBJECT |
 | ------ | ------ | ------ |
 | **--- ing ---** | ------ | ------|
-| **2022.05 - 2022.** | **Endometrium** | **Prediction of final pathology based on preoperative perioperative perioperative infiltration and rating of women with low risk of endometrial cancer** |
 | **--- end ---** | ------ | ------|
-| **2022.09 - 2022.** | **Comprehensive Information and Communication Design** | **An Ensemble Technique in Emotional Classification of Korean Song Lyrics** |
-| **2022.09 - 2022.** | **Computer Vision** | **An AI competition to detect lesions** 
+| **2022.05 - 2023.02** | **Endometrium** | **Prediction of final pathology based on preoperative perioperative perioperative infiltration and rating of women with low risk of endometrial cancer** |
+| **2022.09 - 2022.12** | **Comprehensive Information and Communication Design** | **An Ensemble Technique in Emotional Classification of Korean Song Lyrics** |
+| **2022.09 - 2022.12** | **Computer Vision** | **An AI competition to detect lesions** 
 | **2022.07 - 2022.07** | **2022 Inha Artificial Intelligence Challenge** | **Analyzing data on electrical energy generation in wind farms to predict expected energy generation in the future with high accuracy** |
 | **2022.06 - 2022.09** | **2022 Medical Information Analysis Expert In-depth Course 1** | **Identify user characteristics and profile users using Machine Learning techniques, identify frequency menus within the same profile and recommend them to new and elderly people** |
 | **2022.03 - 2022.06** | **AI Application System project** | **Improving the estimation of license plates using SuperResolution** |
