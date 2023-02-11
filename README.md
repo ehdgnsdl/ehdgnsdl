@@ -6,6 +6,18 @@
 `-` Inha Univ, Department of Information and Communication Engineering (2017-2023)  
 
 
+##### 🏆 Competition
+
+| PERIOD | Competition | Name of the competition | Ranking | TOP |
+| ------ | ------ | ------ | ------ | ------ |
+| **2022.11 - 2023.02** | **Kaggle** | **OTTO – Multi-Objective Recommender System** | **243/2587** | **10%** |
+| **2022.12 - 2023.01** | **Kaggle** | **Santa 2022 - The Christmas Card Conundrum** | **155/874** | **18%** |
+| **2022.07 - 2022.07** | **DACON** | **2022 인하 인공지능 챌린지** | **1/43** | **1%** |
+
+
+
+
+
 ##### 🏆 Project  
 
 | PERIOD | TITLE | SUBJECT |
