@@ -13,6 +13,7 @@
 | **2022.12 - 2023.02** | **Kaggle** | **RSNA Screening Mammography Breast Cancer Detection** | **531/1687** | **32%** |
 | **2022.11 - 2023.02** | **Kaggle** | **OTTO – Multi-Objective Recommender System** | **243/2587** | **10%** |
 | **2022.12 - 2023.01** | **Kaggle** | **Santa 2022 - The Christmas Card Conundrum** | **155/874** | **18%** |
+| **2022.08 - 2023.09** | **DACON** | **팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회** | **54/308** | **18%** |
 | **2022.07 - 2022.07** | **DACON** | **2022 인하 인공지능 챌린지** | **1/43** | **1%** |
 
 
