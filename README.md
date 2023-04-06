@@ -32,6 +32,7 @@
 | ------ | ------ | ------ |
 | **--- ing ---** | ------ | ------|
 | **--- end ---** | ------ | ------|
+| **2022.06 - 2022.08** | **2022 Medical Information Analysis Expert In-depth Course 1** | **Check the user's characteristics, profile the user using Machine Learning techniques, identify the diversity menu in the same profile, and recommend it to new and elderly people. Proposed a customized UI that is convenient for all ages, including elderly users** |
 | **2022.05 - 2023.02** | **Endometrium** | **Prediction of final pathology based on preoperative perioperative perioperative infiltration and rating of women with low risk of endometrial cancer** |
 | **2022.09 - 2022.12** | **Comprehensive Information and Communication Design** | **An Ensemble Technique in Emotional Classification of Korean Song Lyrics** |
 | **2022.09 - 2022.12** | **Computer Vision** | **An AI competition to detect lesions** 
