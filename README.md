@@ -11,9 +11,9 @@
 | ------ | ------ | ------ | ------ | ------ |
 | **--- ing ---** | ------ | ------ | ------ | ------ |
 | **2023.02 - 2023.06** | **Kaggle** | **Predict Student Performance from Game Play** | **24/1062** | **3%** |
-| **2023.02 - 2023.05** | **Kaggle** | **AMP®-Parkinson's Disease Progression Prediction** | **63/777** | **9%** |
 | **2022.12 - 2023.03** | **Kaggle** | **GoDaddy - Microbusiness Density Forecasting** | **308/3547** | **9%** |
 | **--- end ---**  | ------ | ------ | ------ | ------ |
+| **2023.02 - 2023.05** | **Kaggle** | **Stable Diffusion - Image to Prompts** | **68/1231** | **🥉6%** |
 | **2023.01 - 2023.04** | **Kaggle** | **IceCube - Neutrinos in Deep Ice** | **20/812** | **🥈3%** |
 | **2022.12 - 2023.02** | **Kaggle** | **RSNA Screening Mammography Breast Cancer Detection** | **531/1687** | **32%** |
 | **2022.11 - 2023.02** | **Kaggle** | **OTTO – Multi-Objective Recommender System** | **243/2587** | **🥉10%** |
