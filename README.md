@@ -10,7 +10,7 @@
 | PERIOD | Competition | Name of the competition | Ranking | TOP |
 | ------ | ------ | ------ | ------ | ------ |
 | **--- ing ---** | ------ | ------ | ------ | ------ |
-| **2023.02 - 2023.06** | **Kaggle** | **Predict Student Performance from Game Play** | **24/1062** | **3%** |
+| **2023.02 - 2023.06** | **Kaggle** | **Predict Student Performance from Game Play** | **85/1312** | **7%** |
 | **2022.12 - 2023.03** | **Kaggle** | **GoDaddy - Microbusiness Density Forecasting** | **308/3547** | **9%** |
 | **--- end ---**  | ------ | ------ | ------ | ------ |
 | **2023.02 - 2023.05** | **Kaggle** | **Stable Diffusion - Image to Prompts** | **68/1231** | **🥉6%** |
