@@ -12,9 +12,9 @@
 | **--- ing ---** | ------ | ------ | ------ | ------ |
 | **2023.02 - 2023.06** | **Kaggle** | **Predict Student Performance from Game Play** | **85/1312** | **7%** |
 | **--- end ---**  | ------ | ------ | ------ | ------ |
-| **2022.12 - 2023.03** | **Kaggle** | **GoDaddy - Microbusiness Density Forecasting** | **268/3547** | **🥉8%** |
 | **2023.02 - 2023.05** | **Kaggle** | **Stable Diffusion - Image to Prompts** | **68/1231** | **🥉6%** |
 | **2023.01 - 2023.04** | **Kaggle** | **IceCube - Neutrinos in Deep Ice** | **20/812** | **🥈3%** |
+| **2022.12 - 2023.03** | **Kaggle** | **GoDaddy - Microbusiness Density Forecasting** | **268/3547** | **🥉8%** |
 | **2022.12 - 2023.02** | **Kaggle** | **RSNA Screening Mammography Breast Cancer Detection** | **531/1687** | **32%** |
 | **2022.11 - 2023.02** | **Kaggle** | **OTTO – Multi-Objective Recommender System** | **243/2587** | **🥉10%** |
 | **2022.12 - 2023.01** | **Kaggle** | **Santa 2022 - The Christmas Card Conundrum** | **155/874** | **18%** |
