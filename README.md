@@ -9,8 +9,6 @@
 
 | PERIOD | Competition | Name of the competition | Ranking | TOP |
 | ------ | ------ | ------ | ------ | ------ |
-| **--- ing ---** | ------ | ------ | ------ | ------ |
-| **--- end ---**  | ------ | ------ | ------ | ------ |
 | **2023.07 - 2023.08** | **DACON** | **2023 인하 인공지능 챌린지** | **대상** | **🏅1%** |
 | **2023.02 - 2023.06** | **Kaggle** | **Predict Student Performance from Game Play** | **41/2051** | **🥈2%** |
 | **2023.02 - 2023.05** | **Kaggle** | **Stable Diffusion - Image to Prompts** | **68/1231** | **🥉6%** |
@@ -30,8 +28,6 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------ | ------ | ------ |
-| **--- ing ---** | ------ | ------|
-| **--- end ---** | ------ | ------|
 | **2023.03 - 2023.06** | **Multimedia Special Topics** | **Data Augmentation Techniques to Improve Small Object Detection with YOLOv8** |
 | **2022.05 - 2023.02** | **Endometrium** | **Prediction of final pathology based on preoperative perioperative perioperative infiltration and rating of women with low risk of endometrial cancer** |
 | **2022.09 - 2022.12** | **Comprehensive Information and Communication Design** | **An Ensemble Technique in Emotional Classification of Korean Song Lyrics** |
