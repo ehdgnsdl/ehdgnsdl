@@ -9,6 +9,7 @@
 
 | PERIOD | Competition | Name of the competition | Ranking | TOP |
 | ------ | ------ | ------ | ------ | ------ |
+| **2023.07 - 2023.10** | **Kaggle** | **RSNA 2023 Abdominal Trauma Detection** | **43/1123** | **🥈4%** |
 | **2023.07 - 2023.10** | **Kaggle** | **Kaggle - LLM Science Exam** | **45/2662** | **🥈2%** |
 | **2023.07 - 2023.08** | **DACON** | **2023 인하 인공지능 챌린지** | **대상** | **🏅1%** |
 | **2023.02 - 2023.06** | **Kaggle** | **Predict Student Performance from Game Play** | **41/2051** | **🥈2%** |
