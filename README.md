@@ -6,9 +6,10 @@
 `-` Inha Univ, Bachelor Degree, Department of Information and Communication Engineering (2017-2023)  
 
 ##### 🏆 Competition
-
+2023.12. 8. Competitions Master ! 🎉
 | PERIOD | Competition | Name of the competition | Ranking | TOP |
 | ------ | ------ | ------ | ------ | ------ |
+| **2023.09 - 2023.12** | **Kaggle** | **Stanford Ribonanza RNA Folding** | **5/755** | **🥇1%** |
 | **2023.07 - 2023.10** | **Kaggle** | **RSNA 2023 Abdominal Trauma Detection** | **43/1123** | **🥈4%** |
 | **2023.07 - 2023.10** | **Kaggle** | **Kaggle - LLM Science Exam** | **45/2662** | **🥈2%** |
 | **2023.07 - 2023.08** | **DACON** | **2023 인하 인공지능 챌린지** | **대상** | **🏅1%** |
