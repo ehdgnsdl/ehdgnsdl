@@ -1,5 +1,7 @@
 ### Hi I'm Donghoon Jang 👋 😎😎😎
 #### Studying Programming & Data Science & Machine Learning & Deep Learning   
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ayaanjang/competition/light)
+
 
 ##### 📘 ️Edu 
 `-` Inha Univ, Master's Degree, Electrical Computer Engineering and Artificial Intelligence Major (2023-present)  
