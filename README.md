@@ -6,7 +6,8 @@
 `-` Inha Univ, Bachelor Degree, Department of Information and Communication Engineering (2017-2023)  
 
 ##### 🏆 Competition
-2023.12. 8. Competitions Master ! 🎉
+`-` 2023. 12. 8. Competitions Master ! 🎉 <br>
+`-` 2023. 6. 17. Competitions Expert ! 🎉<br>
 | PERIOD | Competition | Name of the competition | Ranking | TOP |
 | ------ | ------ | ------ | ------ | ------ |
 | **2023.09 - 2023.12** | **Kaggle** | **Stanford Ribonanza RNA Folding** | **5/755** | **🥇1%** |
