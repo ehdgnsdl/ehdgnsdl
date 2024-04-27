@@ -10,6 +10,7 @@
 ![ayaanjang](https://road-to-kaggle-grandmaster.vercel.app/api/simple/ayaanjang) <br>
 | PERIOD | Competition | Name of the competition | Ranking | TOP |
 | ------ | ------ | ------ | ------ | ------ |
+| **2024.01 - 2024.04** | **Kaggle** | **HMS - Harmful Brain Activity Classification** | **36/2767** | **🥈2%** |
 | **2023.09 - 2023.12** | **Kaggle** | **Stanford Ribonanza RNA Folding** | **5/755** | **🥇1%** |
 | **2023.07 - 2023.10** | **Kaggle** | **RSNA 2023 Abdominal Trauma Detection** | **43/1123** | **🥈4%** |
 | **2023.07 - 2023.10** | **Kaggle** | **Kaggle - LLM Science Exam** | **45/2662** | **🥈2%** |
