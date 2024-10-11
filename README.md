@@ -26,8 +26,6 @@
 | **2022.07 - 2022.07** | **DACON** | **2022 인하 인공지능 챌린지** | **대상** | <div align="center">*</div> |
 
 `-` Kaggle: https://www.kaggle.com/ayaanjang <br>
-`-` DACON: https://dacon.io/myprofile/431410/home <br>
-
 
 ##### 🏆 Project  
 
