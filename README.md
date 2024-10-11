@@ -11,18 +11,19 @@
 | PERIOD | Competition | Name of the competition | Ranking | TOP |
 | ------ | ------ | ------ | ------ | ------ |
 | **2024.05 - 2024.10** | **Kaggle** | **RSNA 2024 Lumbar Spine Degenerative Classification** | **18/1874** | **🥈1%** |
+| **2024.07 - 2024.08** | **DACON** | **2024 인하 인공지능 챌린지** | **우수상** | <div align="center">*</div> |
 | **2024.04 - 2024.07** | **Kaggle** | **NeurIPS 2024 - Predict New Medicines with BELKA** | **23/1946** | **🥈2%** |
 | **2024.01 - 2024.04** | **Kaggle** | **HMS - Harmful Brain Activity Classification** | **36/2767** | **🥈2%** |
 | **2023.09 - 2023.12** | **Kaggle** | **Stanford Ribonanza RNA Folding** | **5/755** | **🥇1%** |
 | **2023.07 - 2023.10** | **Kaggle** | **RSNA 2023 Abdominal Trauma Detection** | **43/1123** | **🥈4%** |
 | **2023.07 - 2023.10** | **Kaggle** | **Kaggle - LLM Science Exam** | **45/2662** | **🥈2%** |
-| **2023.07 - 2023.08** | **DACON** | **2023 인하 인공지능 챌린지** | **대상** | **🏅1%** |
+| **2023.07 - 2023.08** | **DACON** | **2023 인하 인공지능 챌린지** | **대상** | <div align="center">*</div> |
 | **2023.02 - 2023.06** | **Kaggle** | **Predict Student Performance from Game Play** | **41/2051** | **🥈2%** |
 | **2023.02 - 2023.05** | **Kaggle** | **Stable Diffusion - Image to Prompts** | **68/1231** | **🥉6%** |
 | **2023.01 - 2023.04** | **Kaggle** | **IceCube - Neutrinos in Deep Ice** | **20/812** | **🥈3%** |
 | **2022.12 - 2023.03** | **Kaggle** | **GoDaddy - Microbusiness Density Forecasting** | **268/3547** | **🥉8%** |
 | **2022.11 - 2023.02** | **Kaggle** | **OTTO – Multi-Objective Recommender System** | **243/2587** | **🥉10%** |
-| **2022.07 - 2022.07** | **DACON** | **2022 인하 인공지능 챌린지** | **대상** | **🏅1%** |
+| **2022.07 - 2022.07** | **DACON** | **2022 인하 인공지능 챌린지** | **대상** | <div align="center">*</div> |
 
 `-` Kaggle: https://www.kaggle.com/ayaanjang <br>
 `-` DACON: https://dacon.io/myprofile/431410/home <br>
