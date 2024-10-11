@@ -10,6 +10,7 @@
 ![ayaanjang](https://road-to-kaggle-grandmaster.vercel.app/api/simple/ayaanjang) <br>
 | PERIOD | Competition | Name of the competition | Ranking | TOP |
 | ------ | ------ | ------ | ------ | ------ |
+| **2024.05 - 2024.10** | **Kaggle** | **RSNA 2024 Lumbar Spine Degenerative Classification** | **18/1874** | **🥈1%** |
 | **2024.04 - 2024.07** | **Kaggle** | **NeurIPS 2024 - Predict New Medicines with BELKA** | **23/1946** | **🥈2%** |
 | **2024.01 - 2024.04** | **Kaggle** | **HMS - Harmful Brain Activity Classification** | **36/2767** | **🥈2%** |
 | **2023.09 - 2023.12** | **Kaggle** | **Stanford Ribonanza RNA Folding** | **5/755** | **🥇1%** |
