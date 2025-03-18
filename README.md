@@ -1,13 +1,11 @@
 ### Hi I'm Donghoon Jang 👋 😎😎😎
 #### Studying Programming & Data Science & Machine Learning & Deep Learning   
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ayaanjang/competition/light)
 
 ##### 📘 ️Edu 
-`-` Inha Univ, Master's Degree, Electrical Computer Engineering and Artificial Intelligence Major (2023-present)  
-`-` Inha Univ, Bachelor Degree, Department of Information and Communication Engineering (2017-2023)  
+`-` Inha Univ, Master's Degree, Electrical Computer Engineering and Artificial Intelligence Major (2023.02 - 2025.02)  
+`-` Inha Univ, Bachelor Degree, Department of Information and Communication Engineering (2017.02 - 2023.02)  
 
 ##### 🏆 Competition
-![ayaanjang](https://road-to-kaggle-grandmaster.vercel.app/api/simple/ayaanjang) <br>
 | PERIOD | Competition | Name of the competition | Ranking | TOP |
 | ------ | ------ | ------ | ------ | ------ |
 | **2024.05 - 2024.10** | **Kaggle** | **RSNA 2024 Lumbar Spine Degenerative Classification** | **18/1874** | **🥇1%** |
