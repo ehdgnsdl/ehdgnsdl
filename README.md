@@ -45,4 +45,6 @@
 
 ##### 🧩 Skill  
 
-**Python / PyTorch / Tensorflow / c++ / c / html / css / javascript**    
+- **Languages:** Python, SQL, C++
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Transformers, Diffusers
+- **Tools & Ops:** Git/GitHub, Docker, Linux, vLLM
