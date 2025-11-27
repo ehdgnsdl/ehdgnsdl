@@ -8,6 +8,7 @@
 ##### 🏆 Competition
 | PERIOD | Competition | Name of the competition | Ranking | TOP |
 | ------ | ------ | ------ | ------ | ------ |
+| **2025.09 - 2025.10** | **DACON** | **토스: 광고 클릭 예측(CTR) 모델 개발** | **10/709** | **🥈2%** |
 | **2025.02 - 2025.05** | **Kaggle** | **Drawing with LLMs** | **32/1313** | **🥈3%** |
 | **2024.05 - 2024.10** | **Kaggle** | **RSNA 2024 Lumbar Spine Degenerative Classification** | **18/1874** | **🥇1%** |
 | **2024.07 - 2024.08** | **DACON** | **2024 인하 인공지능 챌린지** | **우수상** | <div align="center">-</div> |
